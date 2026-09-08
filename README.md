@@ -14,12 +14,13 @@ B.S. Computer Science from Santa Clara University, 2026. Emphasis in Data Scienc
 
 ---
 
-### What I do
+### What I build
 
-- Zero-to-one product: deciding what to build and why
-- Interface and interaction design, built from the ground up
-- Software architecture and system design
-- Agent-driven prototyping and creative tooling
+Instruments for thinking: environments for reading, writing, analysis, and research, and the systems that run underneath them. Usually from zero, usually alone or close to it.
+
+One concern runs through all of it, which is what the software is allowed to claim. OSAHR holds exact stochastic semantics rather than approximating them. skypredict is built around leakage. Relay submits nothing a person has not approved word for word. Every paper ships the code that produced it. RISE's architecture document carries a test that fails when the prose stops matching the code.
+
+I work agent-first, with operating instructions and evaluation harnesses checked into the repository next to the code.
 
 ---
 
