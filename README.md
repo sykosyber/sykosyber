@@ -16,7 +16,7 @@ B.S. Computer Science from Santa Clara University, 2026. Emphasis in Data Scienc
 
 ### What I do
 
-- Application development, product design, and UI/UX
+- Application development & product design
 - Software architecture, interaction and system design
 - Zero-to-one product ideation and technical product thinking
 - Agent-driven prototyping and creative tooling
