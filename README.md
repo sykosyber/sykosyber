@@ -6,7 +6,7 @@ My guiding question is: how may software change what people can perceive, unders
 
 I build end to end: framing, architecture, implementation, testing, and evaluation.
 
-B.S. Computer Science, emphasis in Data Science from Santa Clara University, 2026.
+I graduated with a B.S. in Computer Science and an emphasis in Data Science from Santa Clara University in 2026.
 
 **Open to full-time roles** in engineering, ML and data systems, research, or creative-technical work.
 
