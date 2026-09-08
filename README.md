@@ -4,9 +4,9 @@ I design empirical and experiential systems.
 
 My guiding question is: how may software change what people can perceive, understand, and create?
 
-I build end to end — framing, architecture, implementation, testing, and evaluation.
+I build end to end: framing, architecture, implementation, testing, and evaluation.
 
-B.S. Computer Science, emphasis in Data Science — Santa Clara University.
+B.S. Computer Science, emphasis in Data Science from Santa Clara University, 2026.
 
 **Open to full-time roles** in engineering, ML and data systems, research, or creative-technical work.
 
