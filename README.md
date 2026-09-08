@@ -14,12 +14,6 @@ B.S. Computer Science from Santa Clara University, 2026. Emphasis in Data Scienc
 
 ---
 
-### What I build
-
-Instruments for thinking: environments for reading, writing, analysis, and research.
-
----
-
 ### Selected work
 
 Most of my code is in the [SyberLabs](https://github.com/SyberLabs) org, which I build with [Seth Carlson](https://github.com/sdcarlson). We both work across all of these.
