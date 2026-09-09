@@ -10,7 +10,7 @@ B.S. Computer Science from Santa Clara University, 2026. Emphasis in Data Scienc
 
 **Open to full-time roles** in engineering, ML and data systems, research, or creative-technical work.
 
-[syberlabs.space](https://syberlabs.space/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [syberlabs.software@gmail.com](mailto:syberlabs.software@gmail.com)
+[syberlabs.space](https://mateo.syberlabs.space/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [syberlabs.software@gmail.com](mailto:syberlabs.software@gmail.com)
 
 ---
 
