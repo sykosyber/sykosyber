@@ -2,8 +2,6 @@
 
 Creative technologist. I make generative art and interactive pieces that run in the browser, and I build the engineering under them: rendering, audio, data and AI.
 
-My studio posture is *art, but also techne*: the piece has to make you stop, and the system underneath has to hold up.
-
 B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to creative-technology roles.**
 
 [Portfolio](https://mateo.syberlabs.space/) · [Engines](https://sykosyber.github.io/engines/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [hello.mateorobles@gmail.com](mailto:hello.mateorobles@gmail.com)
