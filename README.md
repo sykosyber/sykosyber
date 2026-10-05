@@ -1,26 +1,32 @@
 ## Mateo Robles
 
-I design empirical and experiential systems.
+Creative technologist. I make generative art and interactive pieces that run in the browser, and I build the engineering under them: rendering, audio, data and AI.
 
-My guiding question is: how may software change what people can perceive, understand, and create?
+My studio posture is *art, but also techne*: the piece has to make you stop, and the system underneath has to hold up.
 
-I build end to end: framing, architecture, implementation, testing, and evaluation.
+B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to creative-technology roles.**
 
-B.S. Computer Science from Santa Clara University, 2026. Emphasis in Data Science.
-
-**Open to full-time roles** in engineering, ML and data systems, research, or creative-technical work.
-
-[Personal Site](https://mateo.syberlabs.space/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [hello.mateorobles@gmail.com](mailto:hello.mateorobles@gmail.com)
+[Portfolio](https://mateo.syberlabs.space/) · [Engines](https://sykosyber.github.io/engines/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [hello.mateorobles@gmail.com](mailto:hello.mateorobles@gmail.com)
 
 ---
 
-### Selected work
+### Art and interaction
 
-Most of my code is in the [SyberLabs](https://github.com/SyberLabs) org, which I build with [Seth Carlson](https://github.com/sdcarlson). We both work across all of these.
+<p><a href="https://sykosyber.github.io/engines/#ostensoria"><img src="https://sykosyber.github.io/engines/assets/plates/ostensoria-01.jpg" height="140" alt="Ostensoria plate"></a> <a href="https://sykosyber.github.io/engines/#gyre"><img src="https://sykosyber.github.io/engines/assets/plates/gyre-01.jpg" height="140" alt="Gyre plate"></a> <a href="https://sykosyber.github.io/engines/#interferentia"><img src="https://sykosyber.github.io/engines/assets/plates/interferentia-01.jpg" height="140" alt="Interferentia plate"></a> <a href="https://sykosyber.github.io/engines/#civitas"><img src="https://sykosyber.github.io/engines/assets/plates/civitas-01.jpg" height="140" alt="Civitas plate"></a></p>
 
-**[RISE](https://github.com/SyberLabs/RISE)**: a browser-based environment for reading text through time, image, and sound. Client-only Vite SPA, no backend, no user text leaving the browser. ~2,800 unit tests plus a Playwright end-to-end suite. Live at **[rise.syberlabs.space](https://rise.syberlabs.space/)**. `JavaScript` · Apache-2.0
+**[Engines](https://sykosyber.github.io/engines/)**: seven generative-art engines that draw live in the browser: strange attractors, interference fields, venation growth, a city of light, and a self-portrait by Claude. Every plate is seeded and reproducible. Canvas 2D and WebGL2, no libraries. [Source](https://github.com/sykosyber/engines)
 
-**[OmniOS](https://github.com/SyberLabs/OmniOS)**: a spatial canvas for composing data, notes, and model context through typed, inspectable ports. `TypeScript`
+**[RISE](https://github.com/SyberLabs/RISE)**: a browser environment for reading text through time, image and sound. Client-only Vite app, no user text leaves the browser, ~2,800 unit tests plus Playwright end-to-end. [Watch the film](https://www.youtube.com/watch?v=XxUCPK93DTs) · live at [rise.syberlabs.io](https://rise.syberlabs.io/). `JavaScript` · Apache-2.0
+
+**[RISE RADIO](https://github.com/sykosyber/rise-edm-visualizer)**: an audio-reactive visualizer. Web Audio splits bass, mid and treble, adaptive beat detection drives the halo, and `halokit` renders the same look offline to video for any images and any music. `JavaScript` · `Python`
+
+---
+
+### Systems and research
+
+Most of this is in the [SyberLabs](https://github.com/SyberLabs) org, which I build with [Seth Carlson](https://github.com/sdcarlson). We both work across all of it.
+
+**[OmniOS](https://github.com/SyberLabs/OmniOS)**: a spatial canvas for composing data, notes and model context through typed, inspectable ports. `TypeScript`
 
 **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)**: a stochastic adaptive rewrite kernel over a typed directed hypergraph, built for exact stochastic semantics rather than approximate shortcuts. `Python` · Apache-2.0
 
@@ -34,4 +40,4 @@ Most of my code is in the [SyberLabs](https://github.com/SyberLabs) org, which I
 
 ### Earlier
 
-The personal repositories here are older coursework and experiments: a Qt/C++ desktop application, a Python generative engine, a JavaScript simulation. Current work is above.
+The other personal repositories here are older coursework and experiments: a Qt/C++ desktop application, a Python generative engine, a JavaScript simulation.
