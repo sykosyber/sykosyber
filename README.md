@@ -1,8 +1,8 @@
 ## Mateo Robles
 
-Creative technologist. I make generative art and interactive pieces that run in the browser, and I build the engineering under them: rendering, audio, data and AI.
+I make generative art and interactive pieces that run in the browser, and I build the engineering under them: rendering, audio, data and AI.
 
-B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to creative-technology roles.**
+B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to software engineering & creative-technology roles.**
 
 [Portfolio](https://mateo.syberlabs.space/) · [Engines](https://sykosyber.github.io/engines/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [hello.mateorobles@gmail.com](mailto:hello.mateorobles@gmail.com)
 
