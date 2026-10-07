@@ -2,6 +2,8 @@
 
 ## Mateo Robles
 
+<img src="assets/portrait.jpg" align="right" width="120" alt="Mateo Robles, in a pixelated CRT-style portrait">
+
 I make generative art and interactive pieces that run in the browser, and build the engineering under them: rendering, audio, data and AI.
 
 B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to software engineering & creative-technology roles.**
