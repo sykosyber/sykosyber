@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/sykosyber-assembly.gif" alt="A gantry machine assembles the words sykosyber, Mateo Robles and Creative Software one part at a time, moving from pixel blocks to finished type, then loops."></p>
+
 ## Mateo Robles
 
 I make generative art and interactive pieces that run in the browser, and build the engineering under them: rendering, audio, data and AI.
@@ -16,7 +18,7 @@ B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Op
 
 **[RISE](https://github.com/SyberLabs/RISE)**: a browser environment for reading text through time, image and sound. Client-only Vite app, no user text leaves the browser, ~2,800 unit tests plus Playwright end-to-end. [Watch the film](https://www.youtube.com/watch?v=XxUCPK93DTs) · live at [rise.syberlabs.io](https://rise.syberlabs.io/). `JavaScript` · Apache-2.0
 
-**[RISE RADIO](https://github.com/sykosyber/rise-edm-visualizer)**: an audio-reactive visualizer. Web Audio splits bass, mid and treble, adaptive beat detection drives the halo, and `halokit` renders the same look offline to video for any images and any music. `JavaScript` · `Python`
+**[RISE Sketch](https://github.com/SyberLabs/RISE-Sketch)**: a drawing instrument where every mark is alive. Each stroke grows into a form (coastline, crystal, botany, smoke, feathers, braids) and the ink reads your hand: speed, pressure, stillness. Runs offline in any browser as a single HTML file. `TypeScript`
 
 ---
 
