@@ -20,7 +20,7 @@ B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Op
 
 **[RISE](https://github.com/SyberLabs/RISE)**: a browser environment for reading text through time, image and sound. Client-only Vite app, no user text leaves the browser, ~2,800 unit tests plus Playwright end-to-end. [Watch the film](https://www.youtube.com/watch?v=XxUCPK93DTs) · live at [rise.syberlabs.io](https://rise.syberlabs.io/). `JavaScript` · Apache-2.0
 
-**[RISE Sketch](https://github.com/SyberLabs/RISE-Sketch)**: a drawing instrument where every mark is alive. Each stroke grows into a form (coastline, crystal, botany, smoke, feathers, braids) and the ink reads your hand: speed, pressure, stillness. Runs offline in any browser as a single HTML file. `TypeScript`
+**[RISE Sketch](https://github.com/SyberLabs/RISE-Sketch)**: a drawing instrument where every mark is alive. Each stroke grows into a form (coastline, crystal, botany, smoke, feathers, braids) and the ink reads your hand: speed, pressure, stillness. live at [sketch.syberlabs.io](https://sketch.syberlabs.io/). `TypeScript`
 
 ---
 
