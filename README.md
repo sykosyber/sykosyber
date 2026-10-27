@@ -4,11 +4,16 @@
 
 <img src="assets/portrait.jpg" align="right" width="120" alt="Mateo Robles, in a pixelated CRT-style portrait">
 
-I make generative art and interactive pieces that run in the browser, and build the engineering under them: rendering, audio, data and AI.
+Software & product engineer in the Bay Area. I build AI developer tools and interactive web products in Python and JavaScript, much of it with coding agents.
 
-B.S. Computer Science, Data Science emphasis, Santa Clara University, 2026. **Open to software engineering & creative-technology roles.**
+- Third place, Cline, Parallel & Composio Hackathon (Oct 2026): [PorchLight](https://github.com/sykosyber/porchlight)
+- GitHits design partnership: designed the A/B pilot and its Claude Code integration ([SyberWork](https://github.com/SyberLabs/SyberWork))
+- Lead developer, [RISE](https://github.com/SyberLabs/RISE)
+- B.S. Computer Science, Santa Clara University, 2026
 
-[Portfolio](https://mateo.syberlabs.space/) · [Engines](https://sykosyber.github.io/engines/) · [LinkedIn](https://www.linkedin.com/in/automateon/) · [hello.mateorobles@gmail.com](mailto:hello.mateorobles@gmail.com)
+**Open to software engineering and product management roles. Available now.**
+
+[Portfolio](https://syberlabs.io/mateo/) · [Résumé](https://syberlabs.io/mateo_robles_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/automateon/)
 
 ---
 
