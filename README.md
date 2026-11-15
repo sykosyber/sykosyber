@@ -9,8 +9,6 @@ Software & product engineer in the Bay Area. I build AI developer tools and inte
 - Lead developer, [RISE](https://github.com/SyberLabs/RISE)
 - B.S. Computer Science, Santa Clara University, 2026
 
-**Open to software engineering and product management roles. Available now.**
-
 [Portfolio](https://syberlabs.io/mateo/) · [Résumé](https://syberlabs.io/mateo_robles_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/automateon/)
 
 ---
