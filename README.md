@@ -2,8 +2,6 @@
 
 ## Mateo Robles
 
-<img src="assets/portrait.jpg" align="right" width="120" alt="Mateo Robles, in a pixelated CRT-style portrait">
-
 Software & product engineer in the Bay Area. I build AI developer tools and interactive web products in Python and JavaScript, much of it with coding agents.
 
 - Third place, Cline, Parallel & Composio Hackathon (Oct 2026): [PorchLight](https://github.com/sykosyber/porchlight)
